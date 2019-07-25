@@ -1,8 +1,8 @@
 # TestRepositori
-test github;
+test github
 
-valera;
+valera
 
-TestRepositori;
+TestRepositori
 
-email, tel;
+email, tel
